@@ -1,0 +1,160 @@
+{
+  "coach_name": "Jake Smolarek",
+  "hero_image": "https://jakesmolarek.com/wp-content/uploads/2025/01/Jake_aboutme_hero.webp",
+  "about_image": "https://jakesmolarek.com/wp-content/uploads/2025/02/JakeSmolarek_about-me.webp",
+  "booking_link": "",
+  "video_testimonial": "/jake_testi.mp4",
+  "featured_testimonial": {
+    "quote": "Within the first couple of months of coaching, I achieved several incredible outcomes. I found an amazing, well-paid job, far beyond what I had expected, all with Jake’s support. I also entered a happy relationship, moved into the flat I had always dreamed of, started travelling the world, and gained a deeper understanding of myself. The journey has been truly transformative.",
+    "name": "Egis",
+    "title": "Business Change Manager at London’s Leading Law Firm"
+  },
+  "hero": {
+    "headline": "Install the exact operating system to scale your performance without relying on fleeting motivation",
+    "subheadline": "For ambitious founders and executives who demand execution and refuse to settle for mediocrity.",
+    "cta_btn": "Apply For A Complimentary Consultation Session",
+    "risk_reversal": "100% Free. No commitment. We build your initial execution blueprint regardless."
+  },
+  "trust_bar": [
+    "17+ years of elite coaching experience",
+    "27,000+ hours spent coaching global leaders",
+    "1,500+ ambitious clients served worldwide",
+    "Featured in The Times and Business Insider"
+  ],
+  "problem_solution": {
+    "industry_standard": "Generic Motivation and Hand-Holding Pep Talks",
+    "pain_points": [
+      {
+        "title": "Chasing inspiration",
+        "description": "You waste hours waiting for the right feeling instead of building systems, leaving you chasing motivation without getting results."
+      },
+      {
+        "title": "Drifting without direction",
+        "description": "You work around the clock without clear strategic milestones, leaving you feeling stuck or drifting without direction."
+      },
+      {
+        "title": "The middle phase collapse",
+        "description": "You lose momentum when the initial excitement fades, leaving you struggling with the brutal and boring middle grind."
+      },
+      {
+        "title": "Isolation at the top",
+        "description": "You hesitate on high-stakes decisions due to a lack of unfiltered feedback, leaving you lacking confidence and self-belief."
+      }
+    ],
+    "solution": {
+      "mechanism": "The Operating System for Winning",
+      "description": "A complete performance architecture built on brutal truth and relentless execution. This system replaces fleeting motivation with automated protocols and structured progress to make victory a mathematical certainty.",
+      "deliverables": [
+        "Vision GPS for Your Strategic Command Center",
+        "The 10-80-10 Rule to Fuel Your Grind",
+        "No 0% Days as Your Daily Execution Protocol",
+        "The Brutal Truth Audit for Your Performance Baseline"
+      ]
+    }
+  },
+  "fit": {
+    "is_for": [
+      "Entrepreneurs who want to scale their companies without losing control.",
+      "Founders who need to automate discipline and eliminate execution gaps.",
+      "Executives who want to negotiate high-value board roles with total authority.",
+      "Ambitious professionals who refuse to settle for average industry standards.",
+      "A-players who expect to be held to an extremely high standard of execution."
+    ],
+    "is_not_for": [
+      "People looking for quick motivation hacks or endless pep talks.",
+      "Individuals who want therapy dressed up as high-performance coaching.",
+      "Those who prioritize personal comfort over brutal truth and growth.",
+      "Professionals who are unwilling to invest time and effort into daily execution.",
+      "Anyone looking for a passive hand-holding arrangement instead of a partnership."
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "Jake is a fantastic coach who gets to the core of the issues excellently. He helped me to take drastic steps (they were needed!), which brought me a massive shift in my business and my family life. Now, I work less, earn double that I used to and have more time for my kids. What I like about Jake is that he can be straightforward if needed and when necessary. He is not afraid to ask the difficult (fundamental) questions when the situation calls for them. An outstanding return on investment! Thank you, Jake. See you again soon.",
+      "name": "Peter Barnes",
+      "title": "Entrepreneur"
+    },
+    {
+      "quote": "What a tremendous coach. Jake has a very unique and powerful style. His help allowed me to fix my objectives and build a very profitable online business. He pushed me to reach my full potential! I have been motivated and inspired, and have learned powerful tools for my business and personal life. I feel the happiest in my entire life. Thank you so much. You are a huge inspiration, Jake!",
+      "name": "Robert Yau",
+      "title": "Online Entrepreneur"
+    },
+    {
+      "quote": "Jake has had an enormous effect on my motivation, my decision making and discovering my true potential. Over the past year, I have found my dream job, got out of a toxic relationship, lost weight and started my own part-time business. I found Jake’s coaching to be superb and life-changing. The best investment in my life.",
+      "name": "Sue Bowen",
+      "title": "Software Engineer"
+    },
+    {
+      "quote": "When I started coaching with Jake, I was in the darkest depths of my relationship, my business, and my entire life. I was a walking shadow, and I couldn’t see any light at the end of the tunnel… However, Jake helped me to turn everything around and put me on the right tracks. His coaching helped me to change how I can see the world. The impact it has had on my business and personal life is priceless. His business ideas are so easy to implement and at the same time very powerful!",
+      "name": "Ben C.",
+      "title": "Business owner"
+    },
+    {
+      "quote": "Jake’s work as a coach has had tremendously positive feedback on my life. I feel like a different person. Working with Jake has helped me to concentrate on my vision, goals and the essential ACTIONS! Without a doubt, he has helped me achieve more in a few months than I did in the last five years. I am a different person now compared to when I initially started my coaching sessions with Jake.",
+      "name": "Neil Coker",
+      "title": "Founder and CEO"
+    },
+    {
+      "quote": "The only thing I can say is a “huge thank you, Jake”! I already had the right tools in place to create a good income. However, Jake added a few missing puzzles to my plan and helped me accelerate my income tremendously in just a few weeks. He could see what I was missing and helped me to make the right decisions and changes. It wasn’t always easy, but it was worth it.",
+      "name": "Denise Green",
+      "title": "Peak Performance Coach"
+    },
+    {
+      "quote": "Jake helped me change my life when I felt lost. I decided to work with him because I wanted to change my career path. With his genuine personality and sense of humour, I instantly connected with him. He helped me find my new way, and I am now doing what I always wanted to do, but wasn’t brave enough to try. Jake believed in me when I doubted every action and feeling I had. He pushed me to my limits, so I had to break them, and to my surprise, I did.",
+      "name": "Tom Bayliss",
+      "title": "Writer and editor"
+    },
+    {
+      "quote": "There aren’t any words that could describe how much Jake has supported me through his coaching. His knowledge, experience, and professionalism are to be admired. He will always go the extra mile to help you achieve your goals. The new approach and tools I now have, enable me to have a much stronger focus and plan to action in achieving my deepest dreams. I also like his (sometimes brutal) honesty and speaking the “truth”, exactly how it is. Only a coach can tell you what you have to fix to get better results. He doesn’t just cheerlead his clients through the highs, but also through the challenges. I decided to extend his services to another few months for other problems and goals. I look forward to working with you again and again.",
+      "name": "Laura Stevens",
+      "title": "Executive Coach"
+    }
+  ],
+  "about": {
+    "name": "Jake Smolarek",
+    "years": "17",
+    "audience": "Entrepreneurs, founders, and ambitious professionals",
+    "outcome": "relentless progress and scaled businesses",
+    "notable_achievement": "Coached CEOs scaling companies from £80M to £140M",
+    "mechanism": "The Operating System for Winning",
+    "revenue_generated": "£140M",
+    "clients_served": "1500+",
+    "paragraphs": [
+      "I forged my high-performance standard over two decades in the trenches. I watched countless brilliant founders and executives drift, chasing fleeting motivation while their competitors executed. I knew there had to be a systematic way to build consistency without relying on how you feel on any given morning.",
+      "With over 17 years and 27,000+ hours of coaching experience, I have partnered with more than 1,500 clients globally. My credentials include helping CEOs scale companies from £80M to £140M and guiding executives to negotiate £500k board roles. This is not theory. It is a battle-tested architecture built on brutal truth.",
+      "If you are ready to stop looking for comfort and start engineering real results, let us talk. This complimentary initial consultation session is where we map out your execution protocol. No endless pep talks, just a direct strategy to make your progress non-negotiable."
+    ]
+  },
+  "faqs": [
+    {
+      "q": "Is this just another motivational coaching program?",
+      "a": "No. I do not build motivation. I engineer results. This is a structured operating system built on execution protocols, not hand-holding pep talks."
+    },
+    {
+      "q": "What is expected of me during this partnership?",
+      "a": "I work with A-players who demand execution. You must be willing to face brutal truths, implement daily protocols, and hold yourself to an extremely high standard."
+    },
+    {
+      "q": "How much time does this require daily?",
+      "a": "The system is designed to save you time by automating discipline. Protocols like No 0% Days integrate directly into your current workflow to eliminate wasted hours."
+    },
+    {
+      "q": "Who is this coaching partnership not suitable for?",
+      "a": "This is not for people who want comfort, passive advice, or therapy dressed up as coaching. If you are not ready to take drastic steps, this is not for you."
+    },
+    {
+      "q": "What happens during the complimentary consultation session?",
+      "a": "We analyze your current performance bottlenecks and map out a custom blueprint using the Operating System for Winning. No pitch, just strategy."
+    }
+  ],
+  "final_cta": {
+    "urgency": "Only 3 consultation slots remaining this week",
+    "headline": "Install Your Operating System for Winning Today",
+    "subtext": "One-to-one partnership is strictly reserved for a select, ambitious few who are ready to execute.",
+    "guarantee_title": "The No Wasted Time Guarantee",
+    "guarantee_text": "If you feel this initial consultation session was not highly valuable, we will immediately part ways with no hard feelings.",
+    "slots_label": "Consultation Slots Available",
+    "slots_filled": 12,
+    "slots_total": 15
+  }
+}
