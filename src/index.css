@@ -122,3 +122,26 @@ body {
   color: #000000 !important;
 }
 
+.hero-cta-btn {
+    background: linear-gradient(
+      90deg,
+      var(--color-accent) 0%,
+      #ffffcc 25%,
+      var(--color-accent) 60%,
+      #b3e600 100%
+    );
+    border: 3px solid #000000;
+    box-shadow:
+      0 0 0 2px var(--color-accent),
+      0 8px 30px rgba(204, 255, 0, 0.25);
+  }
+
+  .hero-cta-btn:hover {
+    background: linear-gradient(
+      90deg,
+      #ffffcc 0%,
+      #ffffff 25%,
+      var(--color-accent) 60%,
+      #b3e600 100%
+    );
+  }
