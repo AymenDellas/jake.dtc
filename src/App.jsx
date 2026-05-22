@@ -137,8 +137,11 @@ const App = () => {
             </p>
             
             <div className="flex flex-col items-center lg:items-start gap-5">
-              <a href={bookingUrl} className="inline-flex items-center justify-center bg-text-primary text-black font-bold text-lg md:text-xl px-10 py-5 rounded-lg transition-all duration-200 border border-transparent cursor-pointer hover:bg-accent hover:text-black text-center" {...linkProps}>
-                {data.hero.cta_btn} &rarr;
+              <a
+                href="#book"
+                className="hero-cta-btn inline-flex items-center justify-center text-black font-extrabold text-xl py-5 px-14 rounded-xl no-underline transition-all duration-300 uppercase tracking-wide"
+              >
+                Book Your Free Strategy Session &rarr;
               </a>
               <p className="text-sm text-text-tertiary max-w-[420px] leading-relaxed font-medium pl-0.5 text-center lg:text-left">
                 {data.hero.risk_reversal}
